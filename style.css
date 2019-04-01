@@ -1,0 +1,25 @@
+a{
+    font-family: "arial";
+    color: rgba(0,0,0,0.87);
+    font-size: large;
+    padding: 10px;
+
+}
+.topbar{
+    float: right;
+}
+img{
+    height: 30%;
+    width: 30%;
+    padding: 100px;
+}
+.search{
+    margin: 0 auto;
+}
+.extra{
+    font-family: "arial";
+    margin: 0 auto;
+}
+.bottom{
+    font-family: "arial";
+}
